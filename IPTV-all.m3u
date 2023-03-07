@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CodeSapiens/IPTV-Lists/main/IPTV-news.m3u"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CodeSapiens/IPTV-Lists/main/IPTV-all.m3u"
 #EXTINF:0 tvg-language="English" tvg-country="US" group-title="News" tvg-name="Newsmax TV" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-country="US" group-title="News" tvg-name="OANN" tvg-id="OANN" tvg-logo="https://i.imgur.com/G6e7Hcl.png",OANN (One America News Network)
