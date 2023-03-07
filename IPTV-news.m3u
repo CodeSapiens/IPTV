@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="CA" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="Entertainment",Newsmax TV
+#EXTINF:0 tvg-language="English" tvg-country="US" group-title="News" tvg-name="Newsmax TV" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OANN One America News Network
+#EXTINF:0 tvg-language="English" tvg-country="US" group-title="News" tvg-name="OANN" tvg-id="OANN" tvg-logo="https://i.imgur.com/G6e7Hcl.png",OANN (One America News Network)
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8?checkedby:iptvcat.com
