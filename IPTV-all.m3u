@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-language="English" tvg-country="US" group-title="News" tvg-chno="900" tvg-name="Newsmax TV" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif", Newsmax TV
+#EXTINF:-1 tvg-language="English" tvg-country="US" group-title="News" tvg-chno="1000" tvg-name="Newsmax TV" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif", Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-language="English" tvg-country="US" group-title="News" tvg-chno="902" tvg-name="OANN" tvg-id="OANN" tvg-logo="https://i.imgur.com/G6e7Hcl.png", OANN (One America News Network)
-http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-language="English" tvg-id="USBB5200019FO" tvg-chno="1001" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20230222T041509SQUARE.png_20230222041510.png" tvg-country="US", Movie Favorites by Lifetime
 https://f5b9bc01fe7743cca70b3f58a7e1273a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_MovieFavoritesbyLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=MovieFavoritesbyLifetime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-language="English" tvg-id="USBC600017FG" tvg-chno="1002" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20230222T041258SQUARE.png_20230222041259.png" tvg-country="US", BBC Home & Garden
