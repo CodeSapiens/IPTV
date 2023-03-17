@@ -1,8 +1,11 @@
 #EXTM3U
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="NewsmaxTV.us",Newsmax (720p)
-https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="UK" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg EU TV (1080p)
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="NewsmaxTV.us",Newsmax (720p)
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN (720p) [Geo-blocked]
@@ -17,10 +20,5 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 https://estrellanews-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN Roku (1080p)
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News Roku (1080p)
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" status="online",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
