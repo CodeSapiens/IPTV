@@ -1,23 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="NewsmaxTV.us",Newsmax (720p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg EU TV (1080p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="UK" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg EU TV (1080p)
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" status="online",OAN (720p) [Geo-blocked]
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN (720p) [Geo-blocked]
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" status="online",OAN (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="CBSNews.us",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" status="online",LiveNOW from FOX (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (720p)
 https://lnc-fox-live-now.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" status="online",Estrella News (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="EstrellaNews.us",Estrella News (720p)
 https://estrellanews-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive1.us" status="online",ABC News Live 1 (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-id="" status="online",Pluto TV BBC Home (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" status="online",Reuters (1080p)
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Cheddar News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",NBC News Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",ION Mystery (1080p)
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
