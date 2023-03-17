@@ -9,11 +9,8 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="euronews.info",EuroNews GB
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-chno="103" tvg-id="bloomberg.info",Bloomberg AU
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews NZ
-https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="euronews.info",EuroNews NL
+https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
