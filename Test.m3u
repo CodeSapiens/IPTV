@@ -1,16 +1,37 @@
 #EXTM3U tvg-shift=-6 x-tvg-url=""
 
-#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg US
+#EXTINF:-1 group-title="News" tvg-chno="100" tvg-id="bloomberg.info",Bloomberg US
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg EU
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg EU2
+#EXTINF:-1 group-title="News" tvg-chno="101" tvg-id="bloomberg.info",Bloomberg EU
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews GB
+#EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="euronews.info",EuroNews GB
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-chno="103" tvg-id="bloomberg.info",Bloomberg AU
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews NZ
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (akamaized)
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (plex)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (vizio)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (samsung)
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (xumo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
