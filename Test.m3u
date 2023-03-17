@@ -2,48 +2,55 @@
 
 #EXTINF:-1 group-title="News" tvg-chno="100" tvg-id="bloomberg.info",Bloomberg EU
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-chno="101" tvg-id="bloombergtvplus.info",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="bloombergquicktake.info",Bloomberg QuickTake
 http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-chno="103" tvg-id="euronews.info",EuroNews NL
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News
+#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (roku)
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (roku3)
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (samsung)
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (akamaized)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (plex)
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (vizio)
 https://newsmax-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (samsung)
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (roku)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (klowdtv)
 http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (vizio)
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (xumo)
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="reuters.info",Reuters (samsung)
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cbsn.info",Reuters (akamaihd)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cbsn.info",Reuters (akamaihd2)
+http://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi)
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (vizio)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (samsung)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
