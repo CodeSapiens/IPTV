@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="Bloomberg.info",Bloomberg TV US (720p)
+#EXTINF:-1 tvg-id="Bloomberg.info" status="online",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
