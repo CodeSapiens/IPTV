@@ -1,16 +1,10 @@
 #EXTM3U tvg-shift=-6 x-tvg-url=""
 
-#EXTINF:-1 group-title="News" tvg-chno="100" tvg-id="bloomberg.info",Bloomberg US
-https://bloomberg.com/media-manifest/streams/us.m3u8
-
 #EXTINF:-1 group-title="News" tvg-chno="101" tvg-id="bloomberg.info",Bloomberg EU
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="euronews.info",EuroNews GB
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-chno="102" tvg-id="euronews.info",EuroNews NL
-https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -32,3 +26,18 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (roku)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (klowdtv)
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (vizio)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (xumo)
+https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (cloudfront)
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
