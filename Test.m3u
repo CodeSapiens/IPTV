@@ -1,12 +1,13 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="bloomberg.info" status="online",Bloomberg EU
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/bloomberg.info/weekly_bloomberg.info_tvprofil.net.xml,https://tvprofil.net/xmltv/data/cnbc.info/weekly_cnbc.info_tvprofil.net.xml,https://tvprofil.net/xmltv/data/euronews.info/weekly_euronews.info_tvprofil.net.xml"
 
-#EXTINF:-1 tvg-id="bloomberg.info" status="online",Bloomberg US1
+#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg US
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg.info" status="online",Bloomberg US2
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg EU
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg.info" status="online",Bloomberg US3
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cnbc.info",CNBC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.world.us.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
