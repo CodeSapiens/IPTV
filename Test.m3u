@@ -58,3 +58,11 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (samsung)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="skynews.us",Sky News (pluto)
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 group-title="News" tvg-id="skynews.us",Sky News (akamaized)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="aljazeera.us",Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
