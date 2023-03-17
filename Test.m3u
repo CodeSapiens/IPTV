@@ -14,24 +14,20 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="CBSNews.us",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi) (720p)
-https://lnc-fox-live-now.tubi.video/index.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="EstrellaNews.us",Estrella News (720p)
-https://estrellanews-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi) (720p)
+https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (vizio) (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (samsung) (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="EstrellaNews.us",Estrella News (720p)
+https://estrellanews-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us" status="online",Estrella News (1080p)
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" status="online",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (1080p)
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (1080p)
-https://yahoo-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" status="online",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
