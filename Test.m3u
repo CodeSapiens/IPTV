@@ -17,13 +17,10 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 https://estrellanews-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-
-#EXTINF:-1 tvg-id="" status="online",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Cheddar News (1080p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",NBC News Now (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",ION Mystery (1080p)
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN Roku (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News Roku (1080p)
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
