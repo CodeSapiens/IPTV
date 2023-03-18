@@ -1,34 +1,33 @@
 #EXTM3U tvg-shift=-6 x-tvg-url=""
 
-#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg US
+#EXTINF:-1 group-title="News" tvg-name="Bloomberg TV" tvg-id="",Bloomberg US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="News" tvg-id="bloomberg.info",Bloomberg EU
+#EXTINF:-1 group-title="News" tvg-name="Bloomberg TV" tvg-id="",Bloomberg EU
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="BloombergTV.us",Bloomberg TV US (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-name="Bloomberg TV" tvg-id="",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="bloombergtvplus.info",Bloomberg TV+
+#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Bloomberg TV" tvg-id="",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" status="online",Bloomberg Quicktake (1080p)
+#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews GB
+#EXTINF:-1 group-title="News" tvg-name="EuroNews" tvg-id="",EuroNews GB
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="euronews.info",EuroNews ES
+#EXTINF:-1 group-title="News" tvg-name="EuroNews" tvg-id="",EuroNews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="euronews.info",EuroNews NL
+#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="EuroNews" tvg-id="",EuroNews NL
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="CheddarNews.us",Cheddar News (1080p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-name="Cheddar News" tvg-id="",Cheddar News (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (roku)
+#EXTINF:-1 group-title="News" tvg-name="Cheddar News" tvg-id="",Cheddar News (roku)
 https://cheddar.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (roku3)
+#EXTINF:-1 group-title="News" tvg-name="Cheddar News" tvg-id="",Cheddar News (roku3)
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="cheddarnews.info",Cheddar News (samsung)
+#EXTINF:-1 group-title="News" tvg-name="Cheddar News" tvg-id="",Cheddar News (samsung)
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="NewsmaxTV.us",Newsmax (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="NewsmaxTV.us",Newsmax (720p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (plex)
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
@@ -39,9 +38,9 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="newsmax.info",NewsMax (xumo)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN (720p) [Geo-blocked]
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="OneAmericaNewsNetwork.us",OAN (720p) [Geo-blocked]
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="OneAmericaNewsNetwork.us",OAN (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="OneAmericaNewsNetwork.us",OAN (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (roku)
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
@@ -52,11 +51,11 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="oan.info",OAN (xumo)
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi) (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi) (720p)
 https://lnc-fox-live-now.tubi.video/index.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (vizio) (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (vizio) (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (samsung) (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (samsung) (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="LiveNOWfromFOX.us",LiveNOW from FOX (tubi)
 https://lnc-fox-live-now.tubi.video/index.m3u8
@@ -68,28 +67,28 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="CBSNews.us",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="abcnews.info",ABC News (uplink)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" status="online" tvg-id="EstrellaNews.us",Estrella News (720p)
+#EXTINF:0 parent-code="1234" group-title="News" tvg-country="US" tvg-language="English" tvg-name="ESTRELLATV" tvg-id="",Estrella News (720p)
 https://estrellanews-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" status="online",Estrella News (1080p)
+#EXTINF:-1 tvg-name="ESTRELLATV" tvg-id="",Estrella News (1080p)
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="reuters.info",Reuters (samsung)
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="skynews.us",Sky News (pluto)
+#EXTINF:-1 group-title="News" tvg-name="SKY News" tvg-id="",Sky News (pluto)
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="skynews.us",Sky News (akamaized)
+#EXTINF:-1 group-title="News" tvg-name="SKY News" tvg-id="",Sky News (akamaized)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA
+#EXTINF:-1 tvg-name="CNN US" tvg-id="CNNHD",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
+#EXTINF:-1 tvg-name="WeatherNation" tvg-id="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
-#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
+#EXTINF:-1 tvg-name="AccuWeather Network" tvg-id="AccuWeather Network" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
