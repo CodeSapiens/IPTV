@@ -40,3 +40,22 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3
 https://v-la.mybtv.net/live/161.m3u8
 #EXTINF:-1 parent-code="NY.US" tvg-id="KPIX.us" tvg-name="KPIX-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_CA",KPIX-TV (CBS)
 https://v-ca.mybtv.net/live/162.m3u8
+
+#EXTINF:-1 tvg-id="WUPADT1.us",CW Network Atlanta-GA (WUPA-DT1) (1080p)
+https://trn10.tulix.tv/WUPA-CW/index.m3u8
+#EXTINF:-1 tvg-id="WCWNDT1.us",The CW (WCWN-DT1) Albamy NY (1080p)
+https://16live00.akamaized.net/CW/index.m3u8
+#EXTINF:-1 tvg-id="FCPublicMedia.us",FC Public Media (Fort Collins CO) (1080p)
+https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="FCPublicMedia.us",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="WFAADT1.us",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WNEPDT1.us",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KHOUDT1.us",CBS 11 Houston TX (KHOU) (1080p)
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WGCLDT1.us",CBS Atlanta GA (WGCL-DT1) (1080p)
+https://trn10.tulix.tv/WGCL-CBS/index.m3u8
+#EXTINF:-1 tvg-id="WUSADT1.us" status="error",CBS 9 Washington DC (WUSA) (1080p)
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
