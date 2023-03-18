@@ -1,5 +1,8 @@
 #EXTM3U tvg-shift=-6 x-tvg-url=""
 
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Action" tvg-chno="10.4" tvg-name="10.4 KGTVDT4",ION Mystery HD
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 parent-code="NY.US" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_NY",WCBS-TV (CBS)
 https://v-ny.mybtv.net/live/545.m3u8
 #EXTINF:-1 parent-code="NY.US" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local_NY",WNBC-DT (NBC)
