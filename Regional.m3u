@@ -38,5 +38,5 @@ https://v-ny.mybtv.net/live/713.m3u8
 https://v-la.mybtv.net/live/161.m3u8
 #EXTINF:-1 tvg-id="KPIX.us" tvg-name="KPIX-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Regional CA",KPIX-TV (CBS)
 https://v-ca.mybtv.net/live/162.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Action" tvg-chno="10.4" tvg-name="10.4 KGTVDT4",ION Mystery HD
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Action" tvg-chno="" tvg-name="KGTVDT4",ION Mystery HD
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
