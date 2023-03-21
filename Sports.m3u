@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="SportsGrid",Sports Grid
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="OutsideTVPlus",Outside TV Plus
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="Spanish" group-title="Sports" tvg-id="BeINSportsSpanish",BeIN Sports Spanish
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="EdgeSport",Edge Sport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="ESTV",eSports TV
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="RedboxGloryKickboxing",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="RedboxHardKnocksFightingChampionship",Hard Knocks Fighting Championship
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
