@@ -1,0 +1,138 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TBSEast" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8 
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TBSWest" tvg-name="TBS West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8 
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TNTEast" tvg-name="TNT East" tvg-logo="https://i.imgur.com/xvL9KPI.png",TNT East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8 
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TNTWest" tvg-name="TNT West" tvg-logo="https://i.imgur.com/xvL9KPI.png",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="HLN",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="IONMystery",ION Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="OutsideTVPlus",Outside TV Plus
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="OutsideTV",Outside TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Crime" tvg-id="Crime360",Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Crime" tvg-id="TrueCrimeNow",True Crime Now
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NZ" tvg-language="English" group-title="Crime" tvg-id="LawandCrime",Law and Crime
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="InsightTV",Insight TV
+https://insight-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="ShoutFactory",Shout Factory
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="YoungHollywood",Young Holliwood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="InTrouble",In Trouble
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Circle",Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="DarkMatterTV",Dark Matter TV
+https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Games" tvg-id="IGN",IGN
+https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PocketWatch",Pocket Watch
+https://pocketwatch-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="HNC",HNC
+https://hncfree-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Pac12Insider",Pac12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Xplore",Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="FashionTV",Fashion TV
+https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="G4EN",G4EN
+https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="FuelTV",Fuel TV
+https://siloh.pluto.tv/lilo/production/FuelTV/SP/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Buzzr",Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RightBoosterLTD",Right Booster LTD
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="MavTV",MavTV
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="GB" tvg-language="English" group-title="" tvg-id="Guardian",Guardian
+https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TED",TED Talks
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PeopleAreAwesome",People Are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="" tvg-id="WeatherSpy",Weather Spy 1 US
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="" tvg-id="WeatherSpy",Weather Spy 2 EU
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RadicalDocs",Radical Docs
+https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="CineVault80s",CineVault 80s
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Games" tvg-id="WorldPokerTour",World Poker Tour
+https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Animals" tvg-id="ThePetCollective",ThePetCollective
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Degrassi",Degrassi
+https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Documentary" tvg-id="TrueHistory",TrueHistory
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PBSEast",PBS East
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PBSWest",PBS West
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Religious" tvg-id="AmazingDTV",Amazing DTV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Religious" tvg-id="BetterNature",Better Nature
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxRush",Rush
+https://rush-redbox.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxSpotlight",Spotlight
+https://spotlight-redbox.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxJourny",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxComplex",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxWired",Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxVogue",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxHiya",Hi-Ya!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxGlamour",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxNosey",Nosey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxGravitas",Gravitas
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxNowThis",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxFuse",Fuse
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxTheArchive",The Archive
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxFamilyFeud",Family Feud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxVoyager",Voyager
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxMaverickMovies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxNitroCircus",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxArchitecturalDigest",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxReelzChannel",Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxOutdoorAmerica",Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxShowTimeattheApollo",Showtime at the Apollo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+
+# Spanish
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="RakutenTVShows",Rakuten TV Shows Spain
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="iHola2",iHola 2
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="LencaTelevision",Lenca TV
+https://lencatelevision.com:8080/hls/ltv1.m3u8
