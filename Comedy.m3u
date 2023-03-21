@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="AFV2",AFV2
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="DryBarComedy",Dry Bar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="FailArmy",FailArmy
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="JohnnyCarsonTV",Johnny Carson TV
+https://johnnycarson-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="CarolBurnettShow",Carol Burnett Show
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="RedboxFunnyorDie",Funny or Die
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Comedy" tvg-id="RedboxJustForLaughsGags",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8
