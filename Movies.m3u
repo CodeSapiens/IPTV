@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="MovieSphere",Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="TheFilmDetective",The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="Crackle",Crackle
+https://crackle-plex.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="Spotlight",Spotlight
+https://spotlight-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="MovieFone",Movie Fone
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RakutenTopFree",Rakuten TopFree
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RakutenActionMovies",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RakutenActionMovies2",Rakuten Action Movies 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="DiscoverFilm",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="MidnightPulp",MidnightPulp
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="CineLife",CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxRush",Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxComedy",Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmHub",FilmHub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8l
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxUnsolvedMysteries",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmRiseClassicTV",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmRiseFreeMovies",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmRiseFamily",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmRiseSciFi",FilmRise SciFi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxBatteryPop",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
