@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayQello",Stingray Qello
+https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayClassicRock.ca",Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayFlashback70s.ca",Stingray Flashback 70s
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayHitList.ca",Stingray Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayHolidayHits.ca",Stingray Holiday Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayHotCountry.ca",Stingray Hot Country
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayKaraoke.ca",Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayNaturescape.ca",Stingray Naturescape
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayRockAlternative.ca",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayTodaysLatinPop.ca",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayUrbanBeat.ca",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="QwestJazz",QwestJazz
+https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
