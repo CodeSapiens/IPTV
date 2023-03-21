@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="LegoChannel",Lego Channel
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="HappyKids",Happy Kids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="HappyKidsJunior",Happy Kids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="NickPluto",Nick Pluto
+https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="NickJrPluto",Nick Jr. Pluto
+https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="NickJrDoraTV",Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="MondoTVKids",Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="DuckTV",Duck TV
+https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="Children" tvg-id="RakutenFamily",Rakuten Family
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="Children" tvg-id="SuperToonsTV",Super Toons TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="Children" tvg-id="PlanetaKidz",Planeta Kidz
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="RedboxToonGoggles",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
