@@ -1,0 +1,12 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Travel" tvg-id="GoUSA",Go USA
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Travel" tvg-id="TravelXP.se",TravelXP SE
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Travel" tvg-id="TravelXP.nl",TravelXP NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Travel" tvg-id="RedboxStingrayNaturescape",Stingray Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Travel" tvg-id="RedboxGoTraveler",Go Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
