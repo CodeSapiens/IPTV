@@ -1,36 +1,54 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="newsmax.info",NewsMax (HD)
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="oan.info",OAN (HD)
-https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-country="US" tvg-language="English" tvg-id="OneAmericaNewsNetwork.us",OAN
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-country="US" tvg-language="English" tvg-id="LiveNOWfromFOX.us",LiveNOW FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="abcnews.info",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-country="US" tvg-language="English" tvg-id="CBSNews.us",CBS News US
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Bloomberg TV" tvg-id="Bloomberg TV",Bloomberg TV+ (HD)
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="BloombergTVPlus",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (HD)
-https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Bloomberg TV" tvg-id="Bloomberg TV",Bloomberg EU
+#EXTINF:-1 tvg-country="NL" tvg-language="English" group-title="News" tvg-id="BloombergTVEU",Bloomberg Europe
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="EuroNews" tvg-id="EuroNews",EuroNews GB
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="EuroNews" tvg-id="EuroNews",EuroNews ES
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Cheddar News" tvg-id="",Cheddar News (HD)
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Reuters" tvg-id="",Reuters
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="BloombergQuicktake",Bloomberg Quicktake
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="YahooFinance",Yahoo Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="TDAmeritradeNetwork",TD Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="NL" tvg-language="English" group-title="News" tvg-id="Reuters",Reuters
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="SKY News" tvg-id="",Sky News
+#EXTINF:-1 tvg-country="NZ" tvg-language="English" group-title="News" tvg-id="AusBiz",AusBiz
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="NewsMax",NewsMax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="OAN",One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="OneAmericaNewsNetwork",One America News Network
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="LiveNOWfromFOX",LiveNow from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="ABCNews" tv-logo="https://i.imgur.com/gEeFXTz.png",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="ABCNews1" tv-logo="https://i.imgur.com/gEeFXTz.png",ABC News 1
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-country="US" tvg-language="English" tvg-id="CBSNews",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="NBCNewsNow",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="RedboxUSAToday",USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="GB" tvg-language="English" group-title="News" tvg-id="EuroNews",EuroNews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="News" tvg-id="EuroNewsSpanish",EuroNews en Español
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CheddarNews",Cheddar News
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="GB" tvg-language="English" group-title="News" tvg-id="SkyNews",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="Estrella TV" tvg-id="",Estrella News (HD)
-https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="CNN US" tvg-id="CNNHD",CNN USA
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CNN",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="" tvg-name="AccuWeather Network" tvg-id="AccuWeather Network" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
+#EXTINF:-1 tvg-country="US" tvg-language="Spanish" group-title="News" tvg-id="EstrellaNews",Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="Spanish" group-title="News" tvg-id="RCNMas",RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="Spanish" group-title="News" tvg-id="TelefePluto",Telefe Pluto
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="AlJazeera",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="AccuWeatherNetwork" tvg-logo="https://i.imgur.com/6ZJlCUG.png",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
