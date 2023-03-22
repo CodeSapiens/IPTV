@@ -33,9 +33,9 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="RedboxUSAToday",USA Today
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
-#EXTINF:-1 tvg-country="GB" tvg-language="English" group-title="News" tvg-id="EuroNews",EuroNews
+#EXTINF:-1 tvg-country="GB" tvg-language="Spanish" group-title="News" tvg-id="EuroNews",EuroNews en Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="News" tvg-id="EuroNewsSpanish",EuroNews en Español
+#EXTINF:-1 tvg-country="ES" tvg-language="English" group-title="News" tvg-id="EuroNewsSpanish",EuroNews
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CheddarNews",Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
@@ -121,8 +121,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxFilmRiseSciFi",FilmRise SciFi
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxBatteryPop",Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
 # SPORTS
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="SportsGrid",Sports Grid
@@ -139,6 +137,16 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="RedboxHardKnocksFightingChampionship",Hard Knocks Fighting Championship
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="Pac12Insider",Pac12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="FuelTV",Fuel TV
+https://siloh.pluto.tv/lilo/production/FuelTV/SP/master.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="RightBoosterLTD",Right Booster LTD
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="MavTV",MavTV
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Sports" tvg-id="RedboxNitroCircus",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 
 # GENERAL
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TBSEast" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png",TBS East
@@ -153,10 +161,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="IONMystery",ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="OutsideTVPlus",Outside TV Plus
-https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="OutsideTV",Outside TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Crime" tvg-id="Crime360",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Crime" tvg-id="TrueCrimeNow",True Crime Now
@@ -181,25 +185,17 @@ https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3
 https://pocketwatch-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="HNC",HNC
 https://hncfree-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Pac12Insider",Pac12 Insider
-https://pac12-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Xplore",Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="FashionTV",Fashion TV
 https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="G4EN",G4EN
 https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="FuelTV",Fuel TV
-https://siloh.pluto.tv/lilo/production/FuelTV/SP/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Buzzr",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RightBoosterLTD",Right Booster LTD
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="MavTV",MavTV
-https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="GB" tvg-language="English" group-title="" tvg-id="Guardian",Guardian
 https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="TED",TED Talks
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Lifevision",Lifevision
 https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PeopleAreAwesome",People Are Awesome
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
@@ -213,11 +209,11 @@ https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Games" tvg-id="WorldPokerTour",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Animals" tvg-id="ThePetCollective",ThePetCollective
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Animals" tvg-id="ThePetCollective",The Pet Collective
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="Degrassi",Degrassi
 https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Documentary" tvg-id="TrueHistory",TrueHistory
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Documentary" tvg-id="TrueHistory",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="PBSEast",PBS East
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -259,8 +255,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Movies" tvg-id="RedboxMaverickMovies",Maverick Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxNitroCircus",Nitro Circus
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxArchitecturalDigest",Architectural Digest
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="" tvg-id="RedboxReelzChannel",Reelz
@@ -271,7 +265,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="RakutenTVShows",Rakuten TV Shows Spain
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="iHola2",iHola 2
+#EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="iHola2",iHola
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-language="Spanish" group-title="" tvg-id="LencaTelevision",Lenca TV
 https://lencatelevision.com:8080/hls/ltv1.m3u8
@@ -351,6 +345,8 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="RedboxToonGoggles",Toon Goggles
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Children" tvg-id="RedboxBatteryPop",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
 # MUSIC
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Music" tvg-id="StingrayQello",Stingray Qello
